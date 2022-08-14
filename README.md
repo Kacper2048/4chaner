@@ -8,4 +8,4 @@ At this moment, polish version is only avaiable
 
 It require curl library to work
 You can download it form https://curl.se/
-To comile that sotfware you have to use makefiles, then you have to run it and during the work, programs will ask you about link to specyfied thread it will download from
+To comile that sotfware you have to use makefiles, then you have to run it and during the work, programs will ask you about link to specyfied thread it will download from.
